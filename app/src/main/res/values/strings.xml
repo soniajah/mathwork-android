@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math Workout</string>
+    <string name="addSub">Additon \u0026 Subtraction</string>
+    <string name="mulDiv">Multiplication \u0026 Division </string>
+    <string-array name="pressure_level">
+        <item>Low Pressure</item>
+        <item>Medium Pressure</item>
+        <item>High Pressure</item>
+    </string-array>
+
+
+</resources>
